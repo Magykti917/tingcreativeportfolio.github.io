@@ -1,1 +1,7 @@
 
+.work-sans-<uniquifier> {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <900>;
+  font-style: normal;
+}
